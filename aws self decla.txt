@@ -1,0 +1,103 @@
+hi, good morning. this is Anand
+
+totally i have 4 years of exp in it industry. i use to work on aws project. and coming to my day to day activities.
+
+as per my project req we are working on the multiple aws service like vpc configuration, server deployment, disk process.
+storage configuration  profesion like ebs, s3 efs, fsk storage handling part.
+ A part from thar we are working on sns, sqs, cloud watch topics.
+
+
+database like custom db server provising, and data base engine provising like mysql, aurora, Ms-sql data base
+
+a part from that i have hands on exp in storage migration, vm miragration in the vpc network level. 
+
+i use to work on the vpc deployment, vpc peering , tgw with the help of terraform automation deployments. as per as project req from last six month i have worked on azure also.
+
+very good knowledge on devops tools liks git, mave, jenkins ci cd pipeline, docker, kubernate.
+
+
+what is ur role in the project?
+
+I use to work as L2 level cloud operation.
+
+
+In which domain u have worked on?
+
+ currently working as a one of the primary insurance project client like Max Life, Aliance.
+
+
+day to day activities?
+
+usally we are working on 24/7 shift. as per as my project requment.
+once i login my shift i will verify all my mails. based up on my priority. then i will go to serive now ticking too. i will verify all my ticketing groups, even is there any un assingn tickets. i can own on my name i can take the ticket. i will work on it.
+
+
+as per my schedule either change request r configure we are working on it. day to day verifing al the diff kind of alerts cpu utilization, memory, disk, status check, storage volume, rds , end user request we are working on it.
+
+haveu followed client slas?
+
+S. as per client req tight slasP 
+
+P1 client, change request
+
+
+change request?
+
+i existing env i u want to apply any update patches modification updates related work. v r implemented the change request work flow.
+
+whenever i create a change req i can verify lot of terms of background test plan, backup plan procedure steps, schedule time, revert plan.
+
+usallyy we are following the two types of request, 0 time request, down time change request.
+
+if down time request is there we can take the proper server down time. aproval at schedule time. 
+
+downtime lo two type 1) non prod change 6-9 pm
+		 2) prod change        9pm - 12pm
+
+
+diff bw standared and expedited change request?
+
+std - if we want to implement pre palnned activities in coming days we are using std 
+
+exp - if we have any sudden change, we quicky handle issue.
+
+what we will do when p1 raise?
+
+p1 when ever raise evenone joins the piM call (problem insident management call).
+
+What is TTO and TTR
+
+TTO - time to own - and TTR - time to resolve.
+p1 - 15 min - 4 hrs
+
+p2  30 min - 8 hrs
+
+p3	1 hr - 24 hrs
+
+p4	4 hr - 72 hrs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
